@@ -14,7 +14,6 @@ TrustMed AI is a hybrid, evidence-grounded healthcare decision-support system th
 * **LLM (Gemini + OpenAI fallback)** for controlled answer generation
 * **DKU (Dynamic Knowledge Update)** for self-improving knowledge graph
 * **Patient profile reasoning** for allergies, medications, chronic conditions, age, lifestyle, and pregnancy status
-* **Multi-hop graph traces** across the medical knowledge graph
 * **Uncertainty and contradiction checks** before response generation
 * **CKU intake** for auditable review of new medical evidence
 
