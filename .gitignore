@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+neo4j_import/
+neo4j_medical_data/
+neo4j_medical_data_backup/
+/.venv/
+/.venv-*/
+/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+/data/
+/backend/data/
+/backend/logs/
+.DS_Store
